@@ -1,0 +1,47 @@
+/* span{
+    height: 100px;
+    width: 100px;
+    color: blueviolet;
+    border: 1px solid coral;
+    display: block;
+} */
+/* div{
+    height: 100px;
+    width: 100px;
+    color: blueviolet;
+    border: 1px solid coral;
+    display: inline;
+} */
+/* div{
+    height: 100px;
+    width: 100px;
+    color: blueviolet;
+    border: 2px solid coral;
+    display: inline-block; 
+}*/
+/* a{
+    text-decoration: none;
+    color: brown;
+} */
+/* .div1{
+    height:  500px;
+    width: 100%;
+    border: 2px solid mediumblue;
+    display: flex;
+    align-items: center;
+     justify-content: space-evenly; 
+} */
+/* .childdiv{
+    height: 100px;
+    width: 200px;
+    border: 2px solid slateblue;
+} */
+
+#hd{
+    visibility: hidden;
+    display: none;
+}
+
+p{
+    color: blue !important;
+}
